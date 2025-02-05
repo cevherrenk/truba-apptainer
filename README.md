@@ -184,7 +184,7 @@ cd /arf/scratch/kullanici_adi/proje_adi
 apptainer exec --nv imaj_adi.sif python train.py
 ```
 
-sbatch run.sh komutu ile projenizi çalıştırın.
+```sbatch run.sh``` komutu ile projenizi çalıştırın.
 
 ### 4. Projeyi Takip Etme
 
